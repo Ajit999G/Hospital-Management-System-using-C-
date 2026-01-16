@@ -1,0 +1,2 @@
+1001 ajit 20 fever dr.shubh 259
+1002 ramesh 25 cancer dr.reshma 9000
